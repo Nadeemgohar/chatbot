@@ -1,6 +1,6 @@
 # ChatNad 🤖
 
-A lightweight, from-scratch ML chatbot — no deep learning, no external LLM APIs.
+A lightweight, from-scratch ML chatbot  no deep learning, no external LLM APIs.
 Built with **TF-IDF + SVM** intent classification, served with **Flask**, and
 deployable to any standard Python host.
 
