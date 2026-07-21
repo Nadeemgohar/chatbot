@@ -148,7 +148,7 @@ which handle that for you).
   on the same bag-of-words features — a natural, well-scoped intro to DL
   that builds directly on this project.
 
----
+--
 
 ## Notes
 
